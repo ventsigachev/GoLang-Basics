@@ -17,8 +17,8 @@ func main() {
 	var catPackages int
 	fmt.Scanln(&catPackages)
 
-	var dogCost = float64(dogPackages) * 2.50
-	var catCost = float64(catPackages) * 4
+	var dogCost float64 = float64(dogPackages) * 2.50
+	var catCost float64 = float64(catPackages) * 4
 
 	var allCost = dogCost + catCost
 
