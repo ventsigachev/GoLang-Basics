@@ -1,5 +1,5 @@
 // Write a programm which reads age(float) and a gender(string), and prints personal title.
-//  • "Mr." - gender male(m), age >= 16 
+// 	• "Mr." - gender male(m), age >= 16 
 //	• "Master" - gender male(m), age < 16
 //	• "Ms." - gender woman(f), age >= 16
 //	• "Miss" - gender woman(f), age < 16
