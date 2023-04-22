@@ -72,8 +72,8 @@ func main () {
 
 			} else {
 
-				var reminder int = n1 % n2
-				fmt.Printf("%d %% %d = %d", n1, n2, reminder)
+				var rem int = n1 % n2
+				fmt.Printf("%d %% %d = %d", n1, n2, rem)
 			}
 	}
 
