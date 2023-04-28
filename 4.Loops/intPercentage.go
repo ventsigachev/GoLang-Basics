@@ -30,6 +30,7 @@ func main() {
 			p3Counter++
 
 		} else if n >= 600 && n <= 799 {
+			
 			p4Counter++
 
 		} else {
